@@ -8,6 +8,7 @@ https://shahane806.github.io/shahane806/
 <h2>
  My Projects 🚀<br>
  Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
+ <br>
  Gloxy Demo Website :  https://shahane806.github.io/gloxy-demo-website
  </h2>
 <p class="avatar" align="left">

@@ -1,4 +1,31 @@
 https://shahane806.github.io/shahane806/
+<div class="githubProfileViewBatch">
+   
+      
+<p class="trophy" align="left">
+        <img
+          src="https://komarev.com/ghpvc/?username=shahane806&label=Profile%20views&color=0e75b6&style=flat"
+          alt="shahane806"
+        />
+      </p>
+      
+   
+<p class="trophy" align="left">
+        <a  href="https://github.com/ryo-ma/github-profile-trophy"
+          ><img
+            src="https://github-profile-trophy.vercel.app/?username=shahane806"
+            alt="shahane806"
+        /></a>
+      </p>
+  
+   </div>
+
+<div class="learning_ReachMe">
+
+       
+<p>📫 How to reach me <strong>om.p.shahane@gmail.com</strong></p>
+   
+    </div>
  <div class="Connect_With_Me">
 
         

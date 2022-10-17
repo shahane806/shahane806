@@ -20,9 +20,7 @@ https://shahane806.github.io/shahane806/
 <p class="trophy" align="left">
         <img
           src="https://komarev.com/ghpvc/?username=shahane806&label=Profile%20views&color=0e75b6&style=flat"
-          alt="shahane806"
-       
-        />
+          alt="shahane806"/>
 </p>
       
    
@@ -30,8 +28,7 @@ https://shahane806.github.io/shahane806/
         <a  href="https://github.com/ryo-ma/github-profile-trophy"
           ><img
             src="https://github-profile-trophy.vercel.app/?username=shahane806"
-            alt="shahane806"
-        /></a>
+            alt="shahane806"/></a>
 </p>
   
    </div>

@@ -5,9 +5,10 @@ https://shahane806.github.io/shahane806/
   
 <div class="Intro"><h1>Hi 👋, I'm Shahane Om Prashant</h1></div>
 <div class="IntroDisc"><h3>A passionate frontend developer from <strong>INDIA</strong></h3></div>
-<p>
-<img src = "https://gamingbeastsmusics.000webhostapp.com/" ></img>
-</p>
+<h2>
+ My Projects 🚀
+ Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
+ </h2>
 <p class="avatar" align="left">
 <img
           src="https://avatars.githubusercontent.com/u/71377782?v=4"

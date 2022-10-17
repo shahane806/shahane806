@@ -10,6 +10,8 @@ https://shahane806.github.io/shahane806/
  Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
  <br>
  Gloxy Demo Website :  https://shahane806.github.io/gloxy-demo-website
+ <br>
+ SpaceTravBlog Demo : https://shahane806.github.io/SpaceTrav
  </h2>
 <p class="avatar" align="left">
 <img

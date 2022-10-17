@@ -25,7 +25,7 @@ https://shahane806.github.io/shahane806/
        
 <p>📫 How to reach me <strong>om.p.shahane@gmail.com</strong></p>
    
-    </div>
+</div>
  <div class="Connect_With_Me">
 
         

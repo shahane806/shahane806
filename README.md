@@ -13,11 +13,7 @@ https://shahane806.github.io/shahane806/
  <br>
  SpaceTravBlog Demo : https://shahane806.github.io/SpaceTrav
  </h2>
-<p class="avatar" align="left">
-<img
-          src="https://avatars.githubusercontent.com/u/71377782?v=4"
-          alt="shahane806"/>
-</p>
+
  </div>
 <div class="githubProfileViewBatch">
    

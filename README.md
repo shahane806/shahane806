@@ -333,7 +333,7 @@ https://shahane806.github.io/shahane806/
         />
     </p>
 <p>
-        <img
+        &nbsp; <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=shahane806&"
         alt="shahane806"

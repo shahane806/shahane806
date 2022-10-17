@@ -1,4 +1,17 @@
 https://shahane806.github.io/shahane806/
+ <div class="HeadingIntro">
+  
+<div class="Intro"><h1>Hi 👋, I'm Shahane Om Prashant</h1></div>
+<div class="IntroDisc"><h3>A passionate frontend developer from <strong>INDIA</strong></h3></div>
+<p class="avatar" align="left">
+<img
+          src="https://avatars.githubusercontent.com/u/71377782?v=4"
+          alt="shahane806"
+         
+          
+ />
+</p>
+ </div>
 <div class="githubProfileViewBatch">
    
       

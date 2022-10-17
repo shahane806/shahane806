@@ -6,7 +6,7 @@ https://shahane806.github.io/shahane806/
 <div class="Intro"><h1>Hi 👋, I'm Shahane Om Prashant</h1></div>
 <div class="IntroDisc"><h3>A passionate frontend developer from <strong>INDIA</strong></h3></div>
 <h2>
- My Projects 🚀
+ My Projects 🚀<br>
  Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
  </h2>
 <p class="avatar" align="left">

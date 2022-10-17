@@ -1,5 +1,8 @@
 https://shahane806.github.io/shahane806/
-  <p>
+<div class="GitHubReadme"> 
+
+
+    <p>
         <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shahane806&show_icons=true&locale=en&layout=compact"
@@ -7,7 +10,7 @@ https://shahane806.github.io/shahane806/
         />
     </p>
     
-   <p>
+    <p>
         &nbsp;<img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=shahane806&show_icons=true&locale=en"
@@ -15,10 +18,11 @@ https://shahane806.github.io/shahane806/
         />
     </p>
     
-   <p>
+    <p>
         <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=shahane806&"
         alt="shahane806"
         />
-   </p>
+    </p>
+</div>

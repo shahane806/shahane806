@@ -9,7 +9,7 @@ https://shahane806.github.io/shahane806/
           alt="shahane806"
          
           
- />
+/>
 </p>
  </div>
 <div class="githubProfileViewBatch">

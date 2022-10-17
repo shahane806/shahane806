@@ -1,4 +1,27 @@
 https://shahane806.github.io/shahane806/
+ <div class="Connect_With_Me">
+
+        
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shahane806" target="blank"
+            ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          alt="shahane806"
+          height="30"
+          width="40"
+          /></a>
+ <a href="https://www.youtube.com/c/coderops" target="blank"
+          ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+          alt="coderops"
+          height="30"
+          width="40"
+          /></a>
+        </p>
+    </div>
 <div class="Languages_And_Tools">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

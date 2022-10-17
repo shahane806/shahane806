@@ -1,4 +1,5 @@
 https://shahane806.github.io/shahane806/
+<body>
  <div class="HeadingIntro">
   
 <div class="Intro"><h1>Hi 👋, I'm Shahane Om Prashant</h1></div>
@@ -339,3 +340,4 @@ https://shahane806.github.io/shahane806/
         />
     </p>
 </div>
+</body>

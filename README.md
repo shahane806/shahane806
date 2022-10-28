@@ -9,7 +9,7 @@ https://shahane806.github.io/shahane806/
  My Projects 🚀<br>
  Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
  <br>
- SpaceTrav Wallet : https://spacetravwallet.vercel.app
+ SpaceTrav Wallet Front-end  : https://spacetravwallet.vercel.app
  <br>
  Gloxy Demo Website :  https://shahane806.github.io/gloxy-demo-website
  <br>

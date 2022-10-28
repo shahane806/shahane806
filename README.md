@@ -3,7 +3,7 @@ https://shahane806.github.io/shahane806/
 <body>
  <div class="HeadingIntro">
   
-<div class="Intro"><h1>Hi 👋, I'm Shahane Om Prashant</h1></div>
+<div class="Intro"><h1>Hi 👋, I'm Shahane Om</h1></div>
 <div class="IntroDisc"><h3>A passionate frontend developer from <strong>INDIA</strong></h3></div>
 <h2>
  My Projects 🚀<br>

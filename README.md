@@ -48,14 +48,7 @@ https://shahane806.github.io/shahane806/
           height="30"
           width="40"
           /></a>
- <a href="https://www.youtube.com/channel/UCQHz3IC5QV841o7368yQG2Q" target="blank"
-          ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-          alt="coderops"
-          height="30"
-          width="40"
-          /></a>
+ 
         </p>
     </div>
 <div class="Languages_And_Tools">

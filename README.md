@@ -49,8 +49,7 @@ https://shahane806.github.io/shahane806/
           width="40"
           /></a>
  
-        </p>
-    </div>
+     
 <div class="Languages_And_Tools">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -1,4 +1,3 @@
-omshahane.is-a.dev
 
 
 <body>
@@ -7,6 +6,8 @@ omshahane.is-a.dev
 <div class="Intro"><h1>Hi 👋, I'm Shahane Om</h1></div>
 <div class="IntroDisc"><h3> Full Stack developer</h3></div>
 <h2>
+ Portfolio : omshahane.is-a.dev
+
  My Projects 🚀<br>
  Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
  </div>

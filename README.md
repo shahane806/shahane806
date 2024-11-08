@@ -1,4 +1,5 @@
-https://shahane806.github.io/shahane806/
+omshahane.is-a.dev
+
 
 <body>
  <div class="HeadingIntro">

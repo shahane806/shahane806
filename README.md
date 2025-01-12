@@ -310,12 +310,6 @@
         alt="shahane806"
         />
     </p>
-<p>
-        &nbsp; <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=shahane806&"
-        alt="shahane806"
-        />
-    </p>
+
 </div>
 </body>

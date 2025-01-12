@@ -14,12 +14,7 @@
 
 <div class="githubProfileViewBatch">
    
-      
-<p class="trophy" align="left">
-        <img
-          src="https://komarev.com/ghpvc/?username=shahane806&label=Profile%20views&color=0e75b6&style=flat"
-          alt="shahane806"/>
-</p>
+
       
    
 <p class="trophy" align="left">

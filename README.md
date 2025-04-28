@@ -7,9 +7,6 @@
 <div class="IntroDisc"><h3> Full Stack developer</h3></div>
 <h2>
  Portfolio : https://omshahane.is-a.dev/
-
- My Projects 🚀<br>
- Music Player (PHP) :  https://gamingbeastsmusics.000webhostapp.com
  </div>
 
 <div class="githubProfileViewBatch">
@@ -293,23 +290,3 @@
       </a>
  </p>
 </div>
-<div class="GitHubReadme"> 
-
-
-<p>
-        <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shahane806&show_icons=true&locale=en&layout=compact"
-        alt="shahane806"
-        />
-    </p>
- <p>
-        &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shahane806&show_icons=true&locale=en"
-        alt="shahane806"
-        />
-    </p>
-
-</div>
-</body>
